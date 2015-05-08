@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sas_jar</output-path>
+    <root id="archive" name="main.jar">
+      <element id="module-output" name="main" />
+      <element id="extracted-dir" path="C:/Java/apache-jmeter-2.11/lib/logkit-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Java/apache-jmeter-2.11/lib/ext/ApacheJMeter_core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Java/apache-jmeter-2.11/lib/ext/ApacheJMeter_java.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Java/apache-jmeter-2.11/lib/commons-codec-1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Java/apache-jmeter-2.11/lib/commons-collections-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Java/apache-jmeter-2.11/lib/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Java/apache-jmeter-2.11/lib/commons-logging-1.1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Java/apache-jmeter-2.11/lib/jorphan.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sas.core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sas.oma.joma.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sas.oma.joma.rmt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sas.oma.omi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sas.oma.util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sas.security.sspi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sas.svc.connection.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sas.svc.connection.platform.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
