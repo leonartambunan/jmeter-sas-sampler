@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ------------
 
@@ -69,3 +70,11 @@ Contributing
 4. Push to the branch (`git push origin my_plugin`)
 5. Create an [Issue][1] with a link to your branch
 6. Enjoy a refreshing Diet Coke and wait
+=======
+# Jmeter-SAS-Sampler
+
+Jmeter SAS Sampler is plugin for JMeter to test 2-tier SAS Enterprise Guide.
+It utilizes java library of SAS to connect, execute program and logout from SAS workspace.
+
+This github project should be package using maven.
+>>>>>>> origin/master
